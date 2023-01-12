@@ -1,1 +1,1 @@
-# Maximo-API-and-Query
+These are Maximo API and Query calls to where you connect to your particular server to access the data to store it into a CSV file. This code in particular is to find the data of Manholes and piplines within your area.
